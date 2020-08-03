@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T13:31:46.735Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" version="13.5.8" etag="X8KUr65rrMz0OaYFT9HB" type="github"><diagram id="4NaWE_6CJTM7EADTSZiJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-03T13:57:57.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="JWNwkVrcVNwfrW4ADQh_" version="13.5.8" type="github">
+  <diagram id="4NaWE_6CJTM7EADTSZiJ" name="Page-1">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-20" value="" style="shape=table;html=1;whiteSpace=wrap;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-21" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-20">
+          <mxGeometry width="160" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-22" value="Profile" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=16;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-21">
+          <mxGeometry width="160" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-23" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-20">
+          <mxGeometry y="23" width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-24" value="Nama&lt;br style=&quot;font-size: 16px;&quot;&gt;Alamat lengkap&lt;br style=&quot;font-size: 16px;&quot;&gt;Alamat email&lt;br style=&quot;font-size: 16px;&quot;&gt;Photo&amp;nbsp;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;fontSize=16;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-23">
+          <mxGeometry width="160" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-25" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-20">
+          <mxGeometry y="130" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="DJL4isDTvc5xmz7IVGE_-26" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="DJL4isDTvc5xmz7IVGE_-25">
+          <mxGeometry width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
