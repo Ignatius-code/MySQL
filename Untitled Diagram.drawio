@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T00:41:43.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="rTyKG4YjKvG74AD3_5u1" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-04T00:45:17.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="Xfg553pUhxiojt95PkDa" version="13.5.8" type="github">
   <diagram id="4NaWE_6CJTM7EADTSZiJ" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="rO0Ralh3Y-FZ1ybdiReP-4" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-1">
           <mxGeometry y="20" width="160" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="rO0Ralh3Y-FZ1ybdiReP-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Judul&lt;br&gt;Isi&lt;br&gt;Tanggal Dibuat&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Tanggal diperbarui&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=14;align=left;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-4">
+        <mxCell id="rO0Ralh3Y-FZ1ybdiReP-5" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Judul&lt;br&gt;Isi&lt;br&gt;Tanggal_dibuat&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;span&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Tanggal_diperbarui&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;fontSize=14;align=left;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-4">
           <mxGeometry width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="rO0Ralh3Y-FZ1ybdiReP-6" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-1">
@@ -58,7 +58,7 @@
         <mxCell id="rO0Ralh3Y-FZ1ybdiReP-11" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-8">
           <mxGeometry y="30" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="rO0Ralh3Y-FZ1ybdiReP-12" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Isi&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Tanggal dibuat&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Tanggal diperbarui&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-11">
+        <mxCell id="rO0Ralh3Y-FZ1ybdiReP-12" value="&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Isi&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Tanggal_dibuat&lt;br&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 16px&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Tanggal_diperbarui&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-11">
           <mxGeometry width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="rO0Ralh3Y-FZ1ybdiReP-13" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="rO0Ralh3Y-FZ1ybdiReP-8">
